@@ -1,0 +1,42 @@
+.App {
+  background-color: #f2f2f2;
+  height: 100vh;
+}
+
+.form {
+  padding-top: 15vh;
+  margin: auto;
+  width: 100vh;
+  max-width: 600px;
+}
+
+Button {
+  margin: 5px;
+}
+
+.referral-link {
+  padding-top: 15vh;
+  margin: auto;
+  width: 150vh;
+  text-align: center;
+}
+
+.error-message {
+  color: white;
+}
+
+.error-message-wrapper {
+  background-color: red;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.table {
+  width: 80%;
+  margin: auto;
+  padding-top: 20px;
+  height: auto;
+}

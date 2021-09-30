@@ -1,0 +1,15 @@
+.button {
+    display: flex;
+    border: none;
+    border-radius: 12px;
+    align-items: center;
+}
+
+.home {
+    background: none;
+}
+
+.homeSvg {
+    filter: invert(99%) sepia(6%) saturate(305%) hue-rotate(180deg) brightness(116%) contrast(90%);
+    width: auto;
+}

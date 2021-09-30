@@ -1,0 +1,22 @@
+.App {
+  background-color: #f2f2f2;
+  height: 100vh;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+  margin-top: 0;
+}
+
+.table {
+  padding-top: 80px;
+}
+
+.table-wrapper {
+  width: 90%;
+  height: 85vh;
+  margin: auto;
+  overflow: scroll;
+  margin-bottom: 10px;
+}

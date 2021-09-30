@@ -1,0 +1,34 @@
+#title {
+    text-align: center;
+}
+
+#beerList {
+    text-align: center;
+    font-size: 12px;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 100%;
+}
+
+#beerList td, #beerList th {
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+#beerList tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#beerList tr:hover {
+    background-color: #ddd;
+}
+
+#beerList th {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #f28e1c;
+}
